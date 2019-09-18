@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "serve -l 5000 content"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "serve": "^11.1.0"
+  }
+}
